@@ -1,0 +1,7 @@
+{
+  "name": "orion-backend",
+  "version": "1.0.0",
+  "description": "Backend Orion AI dengan Tavily Search",
+  "main": "api/chat.js",
+  "dependencies": {}
+}
